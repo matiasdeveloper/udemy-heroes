@@ -19,4 +19,6 @@ _Enfasis italic_
   
 ## My image
 ![Github](https://danielmaldonado.com.ar/wp-content/uploads/2019/05/github-octocat.png)
+:rocket:
+:computer:
 [Go to my image](https://danielmaldonado.com.ar/wp-content/uploads/2019/05/github-octocat.png)
